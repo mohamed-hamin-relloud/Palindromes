@@ -9,7 +9,7 @@ def remove_vowels_rec(s):
 
 
 def main():
-    remove_vowels_rec(s)
+    print(remove_vowels_rec('adracadabra'))
 
 if __name__=='__main__':
     main()
